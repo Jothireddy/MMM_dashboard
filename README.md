@@ -25,6 +25,7 @@ Install necessary libraries for data analysis, modeling, and visualization.
 
 ```bash
 pip install pandas numpy matplotlib seaborn statsmodels sklearn streamlit
+```
 
 
 2. Load & Preprocess Data
@@ -58,6 +59,7 @@ Deploy the Streamlit app
 
 ```bash
 streamlit run mmm_dashboard.py
+```
 
 Files:
 MMM_data.xlsx: The dataset containing daily sales and marketing data.
